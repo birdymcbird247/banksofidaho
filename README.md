@@ -1,1 +1,1 @@
-# banksofidaho
+THIS WAS MADE AS A LEARNING EXERCISE
